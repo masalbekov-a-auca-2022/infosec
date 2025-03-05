@@ -1,0 +1,4 @@
+new text
+
+vim starter pack guide:https://www.geeksforgeeks.org/getting-started-with-vim-editor-in-linux/
+
